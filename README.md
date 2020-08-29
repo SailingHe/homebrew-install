@@ -19,3 +19,6 @@ Install Homebrew on Linux and Windows 10 Subsystem for Linux: https://docs.brew.
 ```
 
 Download the uninstall script and run `./uninstall --help` to view more uninstall options.
+
+20200829:
+- 知乎参考文档：https://zhuanlan.zhihu.com/p/90508170
